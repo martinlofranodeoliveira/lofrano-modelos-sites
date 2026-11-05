@@ -1,6 +1,6 @@
 # Modelos de sites — LOFRANO Open Source
 
-**17 conceitos originais em 12 setores**, com código independente em React, documentação em português e interações demonstrativas. Coleção pública da [LOFRANO TECNOLOGIA](https://lofranotecnologia.com.br), disponível para estudar, adaptar e contribuir.
+**17 conceitos originais para diferentes setores**, com código independente em React, documentação em português e interações demonstrativas. Coleção pública da [LOFRANO TECNOLOGIA](https://lofranotecnologia.com.br), disponível para estudar, adaptar e contribuir.
 
 Cada repositório tem seu próprio build, fontes, imagens, ícones, testes e demonstração estática. Você pode clonar somente o modelo que interessa.
 
