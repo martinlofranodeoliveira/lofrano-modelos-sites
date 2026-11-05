@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "license": "MIT",
+  "publisher": "LOFRANO TECNOLOGIA",
+  "source": "https://lofranotecnologia.com.br/modelos",
+  "models": [
+    {
+      "slug": "vertice",
+      "repo": "lofrano-vertice-crm",
+      "name": "Vértice",
+      "sector": "SaaS & CRM",
+      "reference": "https://lofranotecnologia.com.br/modelos/vertice",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-vertice-crm",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-vertice-crm/"
+    },
+    {
+      "slug": "clara",
+      "repo": "lofrano-clara-clinica",
+      "name": "Clara",
+      "sector": "Saúde & bem-estar",
+      "reference": "https://lofranotecnologia.com.br/modelos/clara",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-clara-clinica",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-clara-clinica/"
+    },
+    {
+      "slug": "forma",
+      "repo": "lofrano-forma-cursos",
+      "name": "Forma",
+      "sector": "Educação & cursos",
+      "reference": "https://lofranotecnologia.com.br/modelos/forma",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-forma-cursos",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-forma-cursos/"
+    },
+    {
+      "slug": "ambar",
+      "repo": "lofrano-ambar-loja",
+      "name": "Âmbar",
+      "sector": "E-commerce premium",
+      "reference": "https://lofranotecnologia.com.br/modelos/ambar",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-ambar-loja",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-ambar-loja/"
+    },
+    {
+      "slug": "habitat",
+      "repo": "lofrano-habitat-imoveis",
+      "name": "Habitat",
+      "sector": "Imóveis & arquitetura",
+      "reference": "https://lofranotecnologia.com.br/modelos/habitat",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-habitat-imoveis",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-habitat-imoveis/"
+    },
+    {
+      "slug": "mesa",
+      "repo": "lofrano-mesa-restaurante",
+      "name": "Mesa",
+      "sector": "Gastronomia & hospitalidade",
+      "reference": "https://lofranotecnologia.com.br/modelos/mesa",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-mesa-restaurante",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-mesa-restaurante/"
+    },
+    {
+      "slug": "impulso",
+      "repo": "lofrano-impulso-academia",
+      "name": "Impulso",
+      "sector": "Academia & movimento",
+      "reference": "https://lofranotecnologia.com.br/modelos/impulso",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-impulso-academia",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-impulso-academia/"
+    },
+    {
+      "slug": "brisa",
+      "repo": "lofrano-brisa-pousada",
+      "name": "Brisa",
+      "sector": "Hotel & pousada",
+      "reference": "https://lofranotecnologia.com.br/modelos/brisa",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-brisa-pousada",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-brisa-pousada/"
+    },
+    {
+      "slug": "rota",
+      "repo": "lofrano-rota-turismo",
+      "name": "Rota",
+      "sector": "Viagens & turismo",
+      "reference": "https://lofranotecnologia.com.br/modelos/rota",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-rota-turismo",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-rota-turismo/"
+    },
+    {
+      "slug": "prado",
+      "repo": "lofrano-prado-consultoria",
+      "name": "Prado",
+      "sector": "Serviços profissionais",
+      "reference": "https://lofranotecnologia.com.br/modelos/prado",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-prado-consultoria",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-prado-consultoria/"
+    },
+    {
+      "slug": "pilar",
+      "repo": "lofrano-pilar-engenharia",
+      "name": "Pilar",
+      "sector": "Construção & engenharia",
+      "reference": "https://lofranotecnologia.com.br/modelos/pilar",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-pilar-engenharia",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-pilar-engenharia/"
+    },
+    {
+      "slug": "torque",
+      "repo": "lofrano-torque-automoveis",
+      "name": "Torque",
+      "sector": "Automotivo & mobilidade",
+      "reference": "https://lofranotecnologia.com.br/modelos/torque",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-torque-automoveis",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-torque-automoveis/"
+    },
+    {
+      "slug": "lastro",
+      "repo": "lofrano-lastro-seguros",
+      "name": "Lastro",
+      "sector": "Finanças & seguros",
+      "reference": "https://lofranotecnologia.com.br/modelos/lastro",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-lastro-seguros",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-lastro-seguros/"
+    },
+    {
+      "slug": "elo",
+      "repo": "lofrano-elo-logistica",
+      "name": "Elo",
+      "sector": "Logística & transporte",
+      "reference": "https://lofranotecnologia.com.br/modelos/elo",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-elo-logistica",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-elo-logistica/"
+    },
+    {
+      "slug": "encontro",
+      "repo": "lofrano-encontro-eventos",
+      "name": "Encontro",
+      "sector": "Entretenimento & eventos",
+      "reference": "https://lofranotecnologia.com.br/modelos/encontro",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-encontro-eventos",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-encontro-eventos/"
+    },
+    {
+      "slug": "aura",
+      "repo": "lofrano-aura-beleza",
+      "name": "Aura",
+      "sector": "Estética & beleza",
+      "reference": "https://lofranotecnologia.com.br/modelos/aura",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-aura-beleza",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-aura-beleza/"
+    },
+    {
+      "slug": "laco",
+      "repo": "lofrano-laco-pets",
+      "name": "Laço",
+      "sector": "Pet shop & cuidados",
+      "reference": "https://lofranotecnologia.com.br/modelos/laco",
+      "url": "https://github.com/martinlofranodeoliveira/lofrano-laco-pets",
+      "demo": "https://martinlofranodeoliveira.github.io/lofrano-laco-pets/"
+    }
+  ]
+}
